@@ -8,6 +8,22 @@
 
 ---
 
+## 🚀 Projects
+
+### [Discord-Debloat](https://github.com/mtytyx/Discord-Debloat)
+An initiative to reduce resource consumption of Discord through various optimization techniques. This project aims to enhance performance and improve user experience by minimizing memory and CPU usage.
+
+**Technologies Used**:
+- Batch Scripting 🖥️
+
+### [Steam-Debloat](https://github.com/mtytyx/Steam-Debloat)
+A project focused on optimizing Steam to reduce its resource footprint. The goal is to improve system performance by tweaking configurations and automating optimizations.
+
+**Technologies Used**:
+- Batch Scripting 🖥️
+
+---
+
 ## 🔬 Areas of Expertise & Interest
 
 - **🧠 Artificial Intelligence & Machine Learning**: Developing cutting-edge algorithms for predictive analytics and natural language processing.
@@ -64,22 +80,6 @@ I'm on a perpetual journey of knowledge acquisition, currently delving into:
   - **VS Code** 📝: Code editor with extensive support for various programming languages and tools.
   - **Webpack** ⚙️: Module bundler for JavaScript applications.
   - **Nginx** 🌐: High-performance web server and reverse proxy.
-
----
-
-## 🚀 Projects
-
-### [Discord-Debloat](https://github.com/mtytyx/Discord-Debloat)
-An initiative to reduce resource consumption of Discord through various optimization techniques. This project aims to enhance performance and improve user experience by minimizing memory and CPU usage.
-
-**Technologies Used**:
-- Batch Scripting 🖥️
-
-### [Steam-Debloat](https://github.com/mtytyx/Steam-Debloat)
-A project focused on optimizing Steam to reduce its resource footprint. The goal is to improve system performance by tweaking configurations and automating optimizations.
-
-**Technologies Used**:
-- Batch Scripting 🖥️
 
 ---
 
