@@ -10,12 +10,6 @@
 
 ## 🚀 Projects
 
-### [Discord-Debloat](https://github.com/mtytyx/Discord-Debloat)
-An initiative to reduce resource consumption of Discord through various optimization techniques. This project aims to enhance performance and improve user experience by minimizing memory and CPU usage.
-
-**Technologies Used**:
-- Batch Scripting 🖥️
-
 ### [Steam-Debloat](https://github.com/mtytyx/Steam-Debloat)
 A project focused on optimizing Steam to reduce its resource footprint. The goal is to improve system performance by tweaking configurations and automating optimizations.
 
