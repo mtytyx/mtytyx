@@ -1,1 +1,1 @@
-$host.UI.RawUI.WindowTitle = "Discord Debloater Github.com/mtytyx"
+$host.UI.RawUI.WindowTitle = ""
