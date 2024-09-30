@@ -7,7 +7,7 @@
 A project focused on optimizing Steam to reduce its resource footprint. The goal is to improve system performance by tweaking configurations and automating optimizations.
 
 **Technologies Used**:
-- Batch Scripting 🖥️
+- Powershell Scripting 🖥️
 
 ---
 
